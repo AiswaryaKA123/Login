@@ -18,16 +18,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="login.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="login.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="feature.html">Features</a>
+            <a class="nav-link" href="feature.php">Features</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Career</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="contact.html" tabindex="-1" aria-disabled="true">Contact</a>
+            <a class="nav-link disabled" href="contact.php" tabindex="-1" aria-disabled="true">Contact</a>
           </li>
         </ul>
       </div>
